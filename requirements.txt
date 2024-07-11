@@ -1,9 +1,4 @@
-openCV
-Yolov8
-pandas
-ultralytics
-numpy
-openCV
+opencv-python==4.6.0.66
 Yolov8
 pandas
 ultralytics
